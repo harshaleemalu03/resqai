@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🆘 ResQAI — AI Disaster Response & Relief Coordinator
 
 <div align="center">
@@ -240,3 +241,6 @@ MIT License — Free to use, modify, and distribute.
 <div align="center">
 Built for disaster preparedness and emergency response coordination
 </div>
+=======
+# resqai
+>>>>>>> 7406ac257b9df2b2486e322d3a55224b5fe1072b
