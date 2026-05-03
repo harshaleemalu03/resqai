@@ -230,13 +230,3 @@ ResQAI is an AI-assisted tool for informational purposes. In real emergencies:
 1. **Always call 911 first**
 2. Follow official emergency management guidance
 3. This tool supplements but does not replace professional emergency response
-
-## 📄 License
-
-MIT License — Free to use, modify, and distribute.
-
----
-
-<div align="center">
-Built for disaster preparedness and emergency response coordination
-</div>
